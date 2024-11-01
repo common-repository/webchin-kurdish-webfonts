@@ -1,0 +1,121 @@
+/*
+	Plugin Name: Webchin Kurdish Webfonts
+	Plugin URI: http://www.webchin.org/Meko/viewtopic.php?id=32543
+	Description: Webchin package Webfonts with 98 webfonts into your visual editor panel when creating posts,pages or dashboard.
+	Author: Helbest Aziz
+	Version: 1.0.1
+	Author URI: http://www.webchin.org/Meko/profile.php?id=22995	**You MUST BE LOGGED IN
+*/
+
+@charset "utf-8";
+
+/* CSS Document */
+
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_7EMZE); /*Qaidar*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_A7MED);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_ABDULLAH);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_ABO-DHABI);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_AKHBARIA);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_ALI);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_ASKANDAR);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Arabyeh);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Aramco);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Aso);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Asya);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_BEHMEN);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_BEXUD);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_DARA);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_DIGITAL);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_DWANGE);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_EDEB);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Ebrahim);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Efriqa);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Efsun);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Hemin);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_JWNEYD);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_KAMARAN);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_KARMEND);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_KARWAN);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_KHAMA);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Kufi);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_MOBILE_TV);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_MUHAMMAD);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Meju);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_NAWA);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_OMAR);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_PAYAM);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_PENJWEN);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_POSTER);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_SAMAN);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_SAMi);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_TWANA);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_Taef);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_TeXtE);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_YELDA);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_YUSUF);
+@import url(http://services.webchin.org/web-fonts/web-font?font=UniQAIDAR_ZANA);
+@import url(http://services.webchin.org/web-fonts/web-font?font=amiriregular);
+@import url(http://services.webchin.org/web-fonts/web-font?font=dejavusans);
+@import url(http://services.webchin.org/web-fonts/web-font?font=droidkufibold);/*bold*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=droidkufiregular);
+@import url(http://services.webchin.org/web-fonts/web-font?font=droidnaskhbold);/*bold*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=droidnaskhregular); /*#*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=kchimen); /*Unikurd*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=kdigital);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kdiyako);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kezmer);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kgoran);
+@import url(http://services.webchin.org/web-fonts/web-font?font=khana);
+@import url(http://services.webchin.org/web-fonts/web-font?font=khejar);
+@import url(http://services.webchin.org/web-fonts/web-font?font=khemen);
+@import url(http://services.webchin.org/web-fonts/web-font?font=khiwa);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kjino);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kkale);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kkamran);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kkawe);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kkoch);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kmagroon);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kmestan);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kmidya);
+@import url(http://services.webchin.org/web-fonts/web-font?font=knali);
+@import url(http://services.webchin.org/web-fonts/web-font?font=knaske);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kpenos);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kpeshew);
+@import url(http://services.webchin.org/web-fonts/web-font?font=krawanduz);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kreyhan);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kroonak);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kseyran);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kshilan);
+@import url(http://services.webchin.org/web-fonts/web-font?font=ksiber);
+@import url(http://services.webchin.org/web-fonts/web-font?font=ksirwan);
+@import url(http://services.webchin.org/web-fonts/web-font?font=ktewar);
+@import url(http://services.webchin.org/web-fonts/web-font?font=ktishk);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kxani);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kxatoon);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kxezal);
+@import url(http://services.webchin.org/web-fonts/web-font?font=kyadgar); /*#*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=lateefregot);
+@import url(http://services.webchin.org/web-fonts/web-font?font=neirizi);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbkayhan);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbkayhanbd);/*bold*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbkayhannavaar);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbkayhansayeh);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbshafighkurd);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbshafighkurdbd);/*bold*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbshiraz);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbshirazbd);/*bold*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbtabriz);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbtabrizbd);/*bold*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbtitre);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xbtitreshadow);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xmvahid);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xmvahidbd);/*bold*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=xmyekan);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xmyekanbd);/*bold*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=xpziba);
+@import url(http://services.webchin.org/web-fonts/web-font?font=xpzibabd);/*bold*/
+@import url(http://services.webchin.org/web-fonts/web-font?font=zkurdali);
+@import url(http://services.webchin.org/web-fonts/web-font?font=zkurdaras);
+@import url(http://services.webchin.org/web-fonts/web-font?font=zkurdsiamend);
+@import url(http://services.webchin.org/web-fonts/web-font?font=zkurdwllat);
+

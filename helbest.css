@@ -1,0 +1,508 @@
+/*
+	Plugin Name: Webchin Kurdish Webfonts
+	Plugin URI: http://www.webchin.org/Meko/viewtopic.php?id=32543
+	Description: Webchin package Webfonts with 98 webfonts into your visual editor panel when creating posts,pages or dashboard.
+	Author: Helbest Aziz
+	Version: 1.0.1
+	Author URI: http://www.webchin.org/Meko/profile.php?id=22995	**You MUST BE LOGGED IN
+*/
+
+/*cwankariekan*/
+.qebare.j8 {
+	font-size: 8px;
+}
+.qebare.j9 {
+	font-size: 9px;
+}
+.qebare.j10 {
+	font-size: 10px;
+}
+.qebare.j11 {
+	font-size: 11px;
+}
+.qebare.j12 {
+	font-size: 12px;
+}
+.qebare.j13 {
+	font-size: 13px;
+}
+.qebare.j14 {
+	font-size: 14px;
+}
+.qebare.j15 {
+	font-size: 15px;
+}
+.qebare.j16 {
+	font-size: 16px;
+}
+.qebare.j17 {
+	font-size: 17px;
+}
+.qebare.j18 {
+	font-size: 18px;
+}
+.qebare.j19 {
+	font-size: 19px;
+}
+.qebare.j20 {
+	font-size: 20px;
+}
+.qebare.j21 {
+	font-size: 21px;
+}
+.qebare.j22 {
+	font-size: 22px;
+}
+.qebare.j23 {
+	font-size: 23px;
+}
+.qebare.j24 {
+	font-size: 24px;
+}
+.qebare.j25 {
+	font-size: 25px;
+}
+.qebare.j26 {
+	font-size: 26px;
+}
+.qebare.j27 {
+	font-size: 27px;
+}
+.qebare.j28 {
+	font-size: 28px;
+}
+.qebare.j29 {
+	font-size: 29px;
+}
+.qebare.j30 {
+	font-size: 30px;
+}
+
+.q7emze {
+	font-family: UniQAIDAR_7EMZE;
+}
+
+.qa7med {
+	font-family: UniQAIDAR_A7MED;
+}
+
+.qabdullah {
+	font-family: UniQAIDAR_ABDULLAH;
+}
+
+.qdhabi {
+	font-family: UniQAIDAR_ABO DHABI;
+}
+
+.qakhbaria {
+	font-family: UniQAIDAR_AKHBARIA;
+}
+
+.qali {
+	font-family: UniQAIDAR_ALI;
+}
+
+.qaskandar {
+	font-family: UniQAIDAR_ASKANDAR;
+}
+
+.qarabyeh {
+	font-family: UniQAIDAR_Arabyeh;
+}
+
+.qaramco {
+	font-family: UniQAIDAR_Aramco;
+}
+
+.qaso {
+	font-family: UniQAIDAR_Aso;
+}
+
+.qasya {
+	font-family: UniQAIDAR_Asya;
+}
+
+.qbehmen {
+	font-family: UniQAIDAR_BEHMEN;
+}
+
+.qbexud {
+	font-family: UniQAIDAR_BEXUD;
+}
+
+.qdara {
+	font-family: UniQAIDAR_DARA;
+}
+
+.qdigital {
+	font-family: UniQAIDAR_DIGITAL;
+}
+
+.qdwange {
+	font-family: UniQAIDAR_DWANGE;
+}
+
+.qedeb {
+	font-family: UniQAIDAR_EDEB;
+}
+
+.qebrahim {
+	font-family: UniQAIDAR_Ebrahim;
+}
+.qefriqa {
+	font-family: UniQAIDAR_Efriqa;
+}
+
+.qefsun {
+	font-family: UniQAIDAR_Efsun;
+}
+
+.qhemin {
+	font-family: UniQAIDAR_Hemin;
+}
+
+.qjwneyd {
+	font-family: UniQAIDAR_JWNEYD;
+}
+
+.qkamaran {
+	font-family: UniQAIDAR_KAMARAN;
+}
+
+.qkarmend {
+	font-family: UniQAIDAR_KARMEND;
+}
+
+.qkarwan {
+	font-family: UniQAIDAR_KARWAN;
+}
+
+.qkhama {
+	font-family: UniQAIDAR_KHAMA;
+}
+
+.qkufi {
+	font-family: UniQAIDAR_Kufi;
+}
+
+.qmobile {
+	font-family: UniQAIDAR_MOBILE_TV;
+}
+
+.qmuhammad {
+	font-family: UniQAIDAR_MUHAMMAD;
+}
+
+.qmeju {
+	font-family: UniQAIDAR_Meju;
+}
+
+.qnawa {
+	font-family: UniQAIDAR_NAWA;
+}
+
+.qomar {
+	font-family: UniQAIDAR_OMAR;
+}
+
+.qpayam {
+	font-family: UniQAIDAR_PAYAM;
+}
+
+.qpenjwen {
+	font-family: UniQAIDAR_PENJWEN;
+}
+
+.qposter {
+	font-family: UniQAIDAR_POSTER;
+}
+
+.qsaman {
+	font-family: UniQAIDAR_SAMAN;
+}
+
+.qsami {
+	font-family: UniQAIDAR_SAMi;
+}
+
+.qtwana {
+	font-family: UniQAIDAR_TWANA;
+}
+
+.qtaef {
+	font-family: UniQAIDAR_Taef;
+}
+
+.qtexte {
+	font-family: UniQAIDAR_TeXtE;
+}
+
+.qyelda {
+	font-family: UniQAIDAR_YELDA;
+}
+
+.qyusuf {
+	font-family: UniQAIDAR_YUSUF;
+}
+
+.qzana {
+	font-family: UniQAIDAR_ZANA;
+}
+
+.amiri {
+	font-family: Amiri;
+}
+
+.dsans {
+	font-family: "DejaVu Sans";
+}
+
+.dkufi {
+	font-family: "Droid Arabic Kufi";
+}
+/*bold*/
+.dbkufi {
+	font-family: droidkufibold;
+}
+
+.dnaskh {
+	font-family: "Droid Arabic Naskh";
+}
+/*bold*/
+.dbnaskh {
+	font-family: droidnaskhbold;
+}
+
+/* Unikurd fonts */
+.uchimen {
+	font-family: "Unikurd Chimen";
+}
+
+.udigital {
+	font-family: "Unikurd Digital";
+}
+
+.udiyako {
+	font-family: "Unikurd Diyako";
+}
+
+.uezmer {
+	font-family: "Unikurd Ezmer";
+}
+
+.ugoran {
+	font-family: "Unikurd Goran";
+}
+
+.uhana {
+	font-family: "Unikurd Hana";
+}
+
+.uhejar {
+	font-family: "Unikurd Hejar";
+}
+
+.uhemen {
+	font-family: "Unikurd Hemen";
+}
+
+.uhiwa {
+	font-family: "Unikurd Hiwa";
+}
+
+.ujino {
+	font-family: "Unikurd Jino";
+}
+
+.ukale {
+	font-family: "Unikurd Kale";
+}
+
+.ukamran {
+	font-family: "Unikurd Kamran";
+}
+
+.ukawe {
+	font-family: "Unikurd Kawe";
+}
+
+.ukoch {
+	font-family: "Unikurd Koch";
+}
+
+.umagroon {
+	font-family: "Unikurd Magroon";
+}
+
+.umestan {
+	font-family: "Unikurd Mestan";
+}
+
+.umidya {
+	font-family: "Unikurd Midya";
+}
+
+.unali {
+	font-family: "Unikurd Nali";
+}
+
+.unaske {
+	font-family: "Unikurd Naske";
+}
+
+.kpenos {
+	font-family: kpenos;
+}
+
+.upeshiw {
+	font-family: "Unikurd Peshiw";
+}
+
+.urawanduz {
+	font-family: "Unikurd Rawanduz";
+}
+
+.ureyhan {
+	font-family: "Unikurd Reyhan";
+}
+
+.uroonak {
+	font-family: "Unikurd Roonak";
+}
+
+.useyran {
+	font-family: "Unikurd Seyran";
+}
+
+.ushilan {
+	font-family: "Unikurd Shilan";
+}
+
+.usiber {
+	font-family: "Unikurd Siber";
+}
+
+.usirwan {
+	font-family: "Unikurd Sirwan";
+}
+
+.utewar {
+	font-family: "Unikurd Tewar";
+}
+
+.utishk {
+	font-family: "Unikurd Tishk";
+}
+
+.uxani {
+	font-family: "Unikurd Xani";
+}
+
+.uxatoon {
+	font-family: "Unikurd Xatoon";
+}
+
+.uxezal {
+	font-family: "Unikurd Xezal";
+}
+
+.uyadgar {
+	font-family: "Unikurd Yadgar";
+}
+
+/* Other fonts */
+.lateef {
+	font-family: Lateef;
+}
+
+.neirizi {
+	font-family: Neirizi;
+}
+/*bold*/
+.xbbkayhan {
+	font-family: xbkayhanbd;
+}
+
+.xbkayhan {
+	font-family: "XB Kayhan";
+}
+
+.xbnavaar {
+	font-family: "XB Kayhan Navaar";
+}
+
+.xbsayeh {
+	font-family: "XB Kayhan Sayeh";
+}
+
+.xbkurd {
+	font-family: "XB Shafigh Kurd";
+}
+/*bold*/
+.xbbkurd {
+	font-family: xbshafighkurdbd;
+}
+
+.xbshiraz {
+	font-family: "XB Shiraz";
+}
+/*bold*/
+.xbbshiraz {
+	font-family: xbshirazbd;
+}
+
+.xbtabriz {
+	font-family: "XB Tabriz";
+}
+/*bold*/
+.xbbtabriz {
+	font-family: xbtabrizbd;
+}
+
+.xbtitre {
+	font-family: "XB Titre";
+}
+
+.xbshadow {
+	font-family: "XB Titre Shadow";
+}
+
+.xmvahid {
+	font-family: "XM Vahid";
+}
+/*bold*/
+.xmbvahid {
+	font-family: xmvahidbd;
+}
+
+.xmyekan {
+	font-family: "XM Yekan";
+}
+/*bold*/
+.xmbyekan {
+	font-family: xmyekanbd;
+}
+
+.xpziba {
+	font-family: "XP Ziba";
+}
+/*bold*/
+.xpbziba {
+	font-family: xpzibabd
+}
+
+.zkurdali {
+	font-family: zkurdali;
+}
+
+.zkurdaras {
+	font-family: zkurdaras;
+}
+
+.zkurdsiamend {
+	font-family: zkurdsiamend;
+}
+
+.zkurdwllat {
+	font-family: zkurdwllat;
+}
